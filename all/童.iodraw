@@ -216,7 +216,7 @@
           <mxGeometry x="898" y="190" width="74" height="56" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-34" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;视频帧&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="240" y="178" width="65" height="20" as="geometry" />
+          <mxGeometry x="902.5" y="198" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="P9PDJZPxPfHE_X_Ba2Ko-11" target="P9PDJZPxPfHE_X_Ba2Ko-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
