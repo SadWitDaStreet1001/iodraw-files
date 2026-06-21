@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 SLBrowser/9.0.8.5161 SLBChan/111 SLBVPV/64-bit" version="24.7.17">
   <diagram id="qboMGCjPhp2nfGIPfeTC" name="第 1 页">
-    <mxGraphModel dx="377" dy="210" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1883" dy="1051" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,18 +33,6 @@
         </mxCell>
         <mxCell id="_6GwitNE8p-JcEx00JPZ-63" value="&lt;font face=&quot;宋体&quot;&gt;系统验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#000033;" parent="1" vertex="1">
           <mxGeometry x="281" y="933" width="293" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_6GwitNE8p-JcEx00JPZ-90" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="466.5" y="163" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="_6GwitNE8p-JcEx00JPZ-91" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;等几何分析&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="476.5" y="173" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="_6GwitNE8p-JcEx00JPZ-92" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;距离相关偏置概率&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="476.5" y="208" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_6GwitNE8p-JcEx00JPZ-95" value="&lt;font face=&quot;宋体&quot;&gt;停滞检测与恢复机制&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="556.5" y="208" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_6GwitNE8p-JcEx00JPZ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;fontColor=#000033;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -156,9 +144,6 @@
         </mxCell>
         <mxCell id="ch1ViKPWq48HajkQnPRT-15" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;自适应采样空间构建&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
           <mxGeometry x="197.5" y="178" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ch1ViKPWq48HajkQnPRT-20" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;自适应目标偏置策略&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="477.5" y="173" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ch1ViKPWq48HajkQnPRT-35" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;fontSize=14;fontColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
