@@ -226,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="168" y="111" width="497" height="239" as="geometry" />
+          <mxGeometry x="170" y="115" width="497" height="239" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-12" value="&lt;font face=&quot;宋体&quot;&gt;人体关键点检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#d5e8d4;strokeColor=#000033;" parent="1" vertex="1">
           <mxGeometry x="306.5" y="133" width="240" height="20" as="geometry" />
