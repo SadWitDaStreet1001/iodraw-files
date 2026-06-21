@@ -852,6 +852,45 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-80" value="&lt;font face=&quot;Times New Roman&quot;&gt;(320➡160&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;➡80&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;➡1&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="942.5" y="669" width="118.25" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-86" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="894.25" y="331" width="497" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-87" value="&lt;font face=&quot;宋体&quot;&gt;关键点归一化&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;amp;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;多模态特征计算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#CCE5FF;strokeColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1022.75" y="345" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_lEqPIuo0sWRiAkPkhy-89" target="Z_lEqPIuo0sWRiAkPkhy-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-89" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="947" y="393" width="97.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-90" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;人体中心对齐&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="951" y="398" width="88.25" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z_lEqPIuo0sWRiAkPkhy-86" target="Z_lEqPIuo0sWRiAkPkhy-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-92" value="&lt;font face=&quot;Times New Roman&quot;&gt;(17×3)×16&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;帧&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="951" y="423" width="88.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_lEqPIuo0sWRiAkPkhy-94" target="Z_lEqPIuo0sWRiAkPkhy-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-94" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1091.5" y="405.5" width="102.5" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-95" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;高度归一化&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="411" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-96" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1251" y="387.5" width="118" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-97" value="&lt;font face=&quot;宋体&quot;&gt;位置&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;/速度/&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;加速度/物理特征&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="391.5" width="109" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-98" value="&lt;font face=&quot;Times New Roman&quot;&gt;（16,162)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1255" y="428.5" width="109" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
