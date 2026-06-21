@@ -923,11 +923,11 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-110" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1240.5" y="1010.34" width="135.25" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-111" value="&lt;font face=&quot;宋体&quot;&gt;跌倒报警&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;or&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;正常运行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-111" value="&lt;font face=&quot;宋体&quot;&gt;双数据集联合训练&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1243.25" y="1014.5" width="129.5" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-112" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1081.25" y="1018" width="101.5" height="31" as="geometry" />
+          <mxGeometry x="1081.25" y="1018" width="101.5" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-113" value="&lt;font face=&quot;Times New Roman&quot;&gt;6&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;种关键点增强&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1083" y="1021.84" width="97" height="18" as="geometry" />
