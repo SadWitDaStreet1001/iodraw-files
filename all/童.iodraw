@@ -815,7 +815,7 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-70" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1081.5" y="575" width="102.5" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-71" value="&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;YOLOv8n-pose&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-71" value="&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Linear&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1085.5" y="580" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-72" value="&lt;font face=&quot;Times New Roman&quot;&gt;3.2M&lt;/font&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
