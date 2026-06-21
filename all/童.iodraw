@@ -311,7 +311,7 @@
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="187.5" y="163" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-34" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;车辆运动学模型&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
+        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-34" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;视频帧&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
           <mxGeometry x="197.5" y="173" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 1;fontSize=14;fontColor=#000033;entryX=0;entryY=0.553;entryDx=0;entryDy=0;exitX=1.002;exitY=0.551;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="P9PDJZPxPfHE_X_Ba2Ko-33" edge="1">
@@ -325,9 +325,6 @@
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-37" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;最大转向角&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="197.5" y="206" width="70" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-38" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;最小转弯半径&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="277.5" y="206" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="P9PDJZPxPfHE_X_Ba2Ko-11" target="P9PDJZPxPfHE_X_Ba2Ko-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
