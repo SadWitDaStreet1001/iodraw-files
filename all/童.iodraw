@@ -697,7 +697,7 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-17" value="&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;YOLOv8n-pose&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1010" y="195" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-18" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;视频帧&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-18" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;3.2M视频帧&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1010" y="220" width="95" height="20" as="geometry" />
         </mxCell>
       </root>
