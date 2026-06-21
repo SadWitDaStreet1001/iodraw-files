@@ -700,21 +700,6 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;3.2M&lt;/font&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1010" y="220" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1143" y="378" as="sourcePoint" />
-            <mxPoint x="1143" y="378" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1016" y="200" width="102" height="56" as="geometry" />
-        </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-22" value="&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;YOLOv8n-pose&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="205" width="95" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-23" value="&lt;font face=&quot;Times New Roman&quot;&gt;3.2M&lt;/font&gt;&lt;span style=&quot;font-family: 宋体;&quot;&gt;参数&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="230" width="95" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
