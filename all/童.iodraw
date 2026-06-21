@@ -760,24 +760,6 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;PhysTCN-Fall&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
           <mxGeometry x="168" y="83" width="497" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-9" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;声辐射边界元法&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="206.5" y="188" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-10" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;自适应采样空间构建&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="188" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-11" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;声辐射边界元法&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="206.5" y="188" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="199.13" y="182" width="180" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-13" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;视频帧&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="188" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-14" value="&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;640×640&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="213" width="160.5" height="24" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
