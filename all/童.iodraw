@@ -883,8 +883,8 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-96" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1240.75" y="810.1600000000001" width="118" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-97" value="&lt;font face=&quot;宋体&quot;&gt;位置&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;/速度/&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;宋体&quot;&gt;加速度/物理特征&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="1244.75" y="814.1600000000001" width="109" height="33" as="geometry" />
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-97" value="&lt;font face=&quot;宋体&quot;&gt;跌倒报警or正常运行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="1245.5" y="827.1600000000001" width="109" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-99" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1081.5" y="818" width="101.5" height="56" as="geometry" />
