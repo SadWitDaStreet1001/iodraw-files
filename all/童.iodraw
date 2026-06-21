@@ -803,9 +803,6 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-67" value="&lt;font face=&quot;Times New Roman&quot;&gt;6&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;层残差&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;TCN&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1194" y="573.5" width="109" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;（16,162)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1194" y="610.5" width="109" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-69" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;fontSize=14;fontColor=#000033;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1133.27" y="653" as="sourcePoint" />
