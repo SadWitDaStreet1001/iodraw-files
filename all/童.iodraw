@@ -692,13 +692,13 @@
           <mxGeometry x="902" y="220" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="908" y="200" width="74" height="56" as="geometry" />
+          <mxGeometry x="1006" y="190" width="74" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-17" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;视频帧&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="912" y="205" width="65" height="20" as="geometry" />
+          <mxGeometry x="1010" y="195" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;640×64&lt;span style=&quot;background-color: initial;&quot;&gt;0&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="912" y="230" width="65" height="20" as="geometry" />
+          <mxGeometry x="1010" y="220" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
