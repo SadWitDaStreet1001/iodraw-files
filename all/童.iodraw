@@ -7,9 +7,6 @@
         <mxCell id="ch1ViKPWq48HajkQnPRT-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="168" y="913" width="499" height="246" as="geometry" />
         </mxCell>
-        <mxCell id="_6GwitNE8p-JcEx00JPZ-7" value="&lt;font face=&quot;宋体&quot;&gt;采样策略改进研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#d5e8d4;strokeColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="306.5" y="133" width="240" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="_6GwitNE8p-JcEx00JPZ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="186.5" y="163" width="180" height="90" as="geometry" />
         </mxCell>
@@ -184,7 +181,7 @@
           <mxGeometry x="884" y="129" width="497" height="239" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-12" value="&lt;font face=&quot;宋体&quot;&gt;人体关键点检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#d5e8d4;strokeColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="306.5" y="133" width="240" height="20" as="geometry" />
+          <mxGeometry x="1012.5" y="143" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="186.5" y="273" width="460" height="70" as="geometry" />
