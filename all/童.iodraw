@@ -7,12 +7,6 @@
         <mxCell id="ch1ViKPWq48HajkQnPRT-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="168" y="913" width="499" height="246" as="geometry" />
         </mxCell>
-        <mxCell id="_6GwitNE8p-JcEx00JPZ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="186.5" y="163" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="_6GwitNE8p-JcEx00JPZ-17" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;声辐射边界元法&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="196.5" y="178" width="160" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="_6GwitNE8p-JcEx00JPZ-29" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="186.5" y="273" width="460" height="70" as="geometry" />
         </mxCell>
@@ -136,9 +130,6 @@
         <mxCell id="ch1ViKPWq48HajkQnPRT-3" value="&lt;font face=&quot;宋体&quot;&gt;仿真实验平台搭建&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
           <mxGeometry x="207.38" y="978" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ch1ViKPWq48HajkQnPRT-15" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;自适应采样空间构建&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="197.5" y="178" width="160" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ch1ViKPWq48HajkQnPRT-35" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;fontSize=14;fontColor=#000033;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="416.55000000000007" y="356" as="sourcePoint" />
@@ -221,11 +212,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="236" y="173" width="74" height="56" as="geometry" />
-        </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-34" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;视频帧&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="240" y="178" width="65" height="20" as="geometry" />
+          <mxGeometry x="309.75" y="174" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="P9PDJZPxPfHE_X_Ba2Ko-11" target="P9PDJZPxPfHE_X_Ba2Ko-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
