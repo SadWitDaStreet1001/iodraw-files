@@ -834,6 +834,15 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-77" value="&lt;font face=&quot;宋体&quot;&gt;注意力加权池化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1099.13" y="650" width="67.25" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-78" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="964" y="578" width="97.25" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-79" value="&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Input&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="968" y="583" width="88.25" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-80" value="&lt;font face=&quot;Times New Roman&quot;&gt;(16,162)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="968" y="608" width="88.25" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
