@@ -855,7 +855,7 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-86" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="884" y="753.6600000000001" width="497" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-87" value="&lt;font face=&quot;宋体&quot;&gt;报警决策&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#CCE5FF;strokeColor=#000033;" vertex="1" parent="1">
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-87" value="&lt;font face=&quot;宋体&quot;&gt;报警决策&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#E6D0DE;strokeColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1012.5" y="767.6600000000001" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_lEqPIuo0sWRiAkPkhy-89">
@@ -898,7 +898,7 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-102" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="883.75" y="941.0000000000001" width="497" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-103" value="&lt;font face=&quot;宋体&quot;&gt;训练策略&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#CCE5FF;strokeColor=#000033;" vertex="1" parent="1">
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-103" value="&lt;font face=&quot;宋体&quot;&gt;训练策略&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#67AB9F;strokeColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1012.25" y="955.0000000000001" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z_lEqPIuo0sWRiAkPkhy-105">
