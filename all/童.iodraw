@@ -832,7 +832,7 @@
           <mxGeometry x="1073.75" y="652.5" width="118" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-77" value="&lt;font face=&quot;宋体&quot;&gt;注意力加权池化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="1078.25" y="657.75" width="109" height="18.5" as="geometry" />
+          <mxGeometry x="1120" y="657.75" width="67.25" height="18.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
