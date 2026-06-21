@@ -255,15 +255,6 @@
             <mxPoint x="276.5" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-25" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;等几何分析&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="476.5" y="173" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-26" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;圆形障碍物&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="476.5" y="208" width="73.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-27" value="&lt;font face=&quot;宋体&quot;&gt;矩形障碍物&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="556.5" y="208" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-28" value="" style="endArrow=classicThin;html=1;fontSize=3;fontColor=#000033;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;endFill=1;" parent="1" source="P9PDJZPxPfHE_X_Ba2Ko-20" target="P9PDJZPxPfHE_X_Ba2Ko-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="306.5" y="363" as="sourcePoint" />
@@ -295,15 +286,6 @@
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-34" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;视频帧&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
           <mxGeometry x="197.5" y="173" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-35" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 1;fontSize=14;fontColor=#000033;entryX=0;entryY=0.553;entryDx=0;entryDy=0;exitX=1.002;exitY=0.551;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" source="P9PDJZPxPfHE_X_Ba2Ko-33" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="367.5" y="243" as="sourcePoint" />
-            <mxPoint x="467.5" y="212.7700000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-36" value="&lt;span&gt;&lt;font face=&quot;宋体&quot;&gt;二维工作空间&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="477.5" y="173" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="P9PDJZPxPfHE_X_Ba2Ko-37" value="&lt;span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;640×640&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="197.5" y="198" width="160.5" height="24" as="geometry" />
