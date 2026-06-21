@@ -747,7 +747,7 @@
           <mxGeometry x="1085.25" y="398" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1209" y="383" width="138" height="56" as="geometry" />
+          <mxGeometry x="1198" y="383" width="181" height="56" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-51" value="&lt;font face=&quot;宋体&quot;&gt;位置&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;/速度/加速度/物理特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1200" y="388" width="177" height="20" as="geometry" />
