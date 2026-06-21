@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-39" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="992.5" y="316" width="497" height="140" as="geometry" />
+          <mxGeometry x="1033" y="316" width="447" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-40" value="&lt;font face=&quot;宋体&quot;&gt;关键点归一化&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&amp;amp;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;多模态特征计算&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#CCE5FF;strokeColor=#000033;" parent="1" vertex="1">
           <mxGeometry x="1121" y="330" width="240" height="20" as="geometry" />
