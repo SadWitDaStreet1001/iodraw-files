@@ -796,6 +796,9 @@
         <mxCell id="aR1dmR7Da78jDCwS2Nq2-13" value="&lt;font face=&quot;宋体&quot;&gt;航向&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="475.76" y="739" width="45" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="592" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
