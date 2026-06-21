@@ -769,7 +769,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-56" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="884.25" y="513" width="497" height="189" as="geometry" />
+          <mxGeometry x="873" y="518" width="497" height="189" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-57" value="&lt;font face=&quot;宋体&quot;&gt;时序分类器&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;TCN (6.27M&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;参数&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fillColor=#E1D517;strokeColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1012.75" y="527" width="240" height="20" as="geometry" />
@@ -827,6 +827,12 @@
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-75" value="&lt;font face=&quot;宋体&quot;&gt;膨胀率:&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;1 2 4 8 16 32&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1210" y="670" width="149" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-76" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1236" y="591.5" width="118" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;6&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;层残差&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;TCN&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;块&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fontSize=14;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="1240.5" y="596.75" width="109" height="18.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
