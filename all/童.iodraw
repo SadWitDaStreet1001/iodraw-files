@@ -799,7 +799,7 @@
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592" y="375" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-3" value="PhysTCN-Fall&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0080;" vertex="1" parent="1">
+        <mxCell id="Z_lEqPIuo0sWRiAkPkhy-3" value="PhysTCN-Fall&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
           <mxGeometry x="168" y="83" width="500" height="25" as="geometry" />
         </mxCell>
       </root>
