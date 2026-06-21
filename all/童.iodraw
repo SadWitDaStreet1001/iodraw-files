@@ -841,7 +841,7 @@
           <mxGeometry x="988" y="643" width="88.25" height="18" as="geometry" />
         </mxCell>
         <mxCell id="Z_lEqPIuo0sWRiAkPkhy-80" value="&lt;font face=&quot;Times New Roman&quot;&gt;(320➡160&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;➡80&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;➡1&lt;/span&gt;&lt;font face=&quot;Times New Roman&quot;&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000033;strokeWidth=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="988" y="668" width="88.25" height="20" as="geometry" />
+          <mxGeometry x="958" y="668" width="118.25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
