@@ -228,6 +228,9 @@
         <mxCell id="c0vitd_mQtQAH4c9cLQY-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Publication&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="820" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="c0vitd_mQtQAH4c9cLQY-5" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;局&lt;/span&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;宋体&quot;&gt;部路径规划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9BB8D0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="830" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
