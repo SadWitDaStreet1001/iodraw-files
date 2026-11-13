@@ -44,7 +44,7 @@
           <mxGeometry x="425" y="300" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-21" value="&lt;font face=&quot;宋体&quot;&gt;分解与基于采样的方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" vertex="1" parent="1">
-          <mxGeometry x="425" y="395" width="100" height="60" as="geometry" />
+          <mxGeometry x="425" y="395" width="115" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
