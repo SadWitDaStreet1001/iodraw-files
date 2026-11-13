@@ -49,6 +49,9 @@
         <mxCell id="TrC5T2JPyowlt0jybICx-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1;fillColor=#D7EAE8;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="170" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="TrC5T2JPyowlt0jybICx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TrC5T2JPyowlt0jybICx-23" target="TrC5T2JPyowlt0jybICx-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-23" value="&lt;font face=&quot;宋体&quot;&gt;基于图的搜索方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" vertex="1" parent="1">
           <mxGeometry x="395" y="490" width="100" height="60" as="geometry" />
         </mxCell>
