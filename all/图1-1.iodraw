@@ -31,7 +31,7 @@
         <mxCell id="TrC5T2JPyowlt0jybICx-16" value="&lt;font face=&quot;宋体&quot;&gt;路径搜索&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
           <mxGeometry x="230" y="565" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrC5T2JPyowlt0jybICx-17" value="&lt;font face=&quot;宋体&quot;&gt;环境建模&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
+        <mxCell id="TrC5T2JPyowlt0jybICx-17" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;反应式规划技术&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
           <mxGeometry x="220" y="650" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
