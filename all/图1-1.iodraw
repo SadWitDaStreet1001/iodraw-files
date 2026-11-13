@@ -58,7 +58,7 @@
         <mxCell id="TrC5T2JPyowlt0jybICx-25" value="&lt;font face=&quot;宋体&quot;&gt;人工势场法&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;GHB5X5ZowIlsaidaHJvK&quot;&gt;行为分解法&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;GHB5X5ZowIlsaidaHJvK&quot;&gt;基于案例的学习方法&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" vertex="1" parent="1">
           <mxGeometry x="390" y="650" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TrC5T2JPyowlt0jybICx-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1;fillColor=#E1E5EE;" vertex="1" parent="1">
+        <mxCell id="TrC5T2JPyowlt0jybICx-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1;fillColor=#EFECE5;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
