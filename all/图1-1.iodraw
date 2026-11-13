@@ -40,11 +40,8 @@
         <mxCell id="TrC5T2JPyowlt0jybICx-12" value="&lt;font face=&quot;宋体&quot;&gt;环境建模&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TrC5T2JPyowlt0jybICx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TrC5T2JPyowlt0jybICx-13" target="TrC5T2JPyowlt0jybICx-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-13" value="&lt;font face=&quot;宋体&quot;&gt;优化准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
-          <mxGeometry x="220" y="420" width="80" height="20" as="geometry" />
+          <mxGeometry x="220" y="440" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
