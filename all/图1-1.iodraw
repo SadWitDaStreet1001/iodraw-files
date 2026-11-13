@@ -43,6 +43,9 @@
         <mxCell id="TrC5T2JPyowlt0jybICx-13" value="&lt;font face=&quot;宋体&quot;&gt;优化准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
           <mxGeometry x="220" y="440" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="TrC5T2JPyowlt0jybICx-15" value="&lt;font face=&quot;宋体&quot;&gt;优化准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
