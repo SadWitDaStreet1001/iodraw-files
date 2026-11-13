@@ -47,7 +47,7 @@
           <mxGeometry x="410" y="385" width="130" height="55" as="geometry" />
         </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1;fillColor=#D7EAE8;" vertex="1" parent="1">
-          <mxGeometry x="390" y="470" width="170" height="170" as="geometry" />
+          <mxGeometry x="390" y="470" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-23" value="&lt;font face=&quot;宋体&quot;&gt;基于图的搜索方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" vertex="1" parent="1">
           <mxGeometry x="425" y="480" width="100" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="405" y="557" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-25" value="&lt;font face=&quot;宋体&quot;&gt;仿生与元启发式优化方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" vertex="1" parent="1">
-          <mxGeometry x="390" y="720" width="140" height="55" as="geometry" />
+          <mxGeometry x="405" y="655" width="140" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
