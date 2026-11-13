@@ -109,7 +109,7 @@
           <mxGeometry x="730" y="553.12" width="120" height="36.88" as="geometry" />
         </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-48" value="&lt;font face=&quot;宋体&quot;&gt;人工神经网络&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(ANNS)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" vertex="1" parent="1">
-          <mxGeometry x="740" y="563.12" width="120" height="36.88" as="geometry" />
+          <mxGeometry x="730" y="613.12" width="120" height="36.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
