@@ -99,8 +99,8 @@
         <mxCell id="TrC5T2JPyowlt0jybICx-43" value="&lt;font face=&quot;宋体&quot;&gt;基于栅格的图法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" vertex="1" parent="1">
           <mxGeometry x="740" y="455" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="TrC5T2JPyowlt0jybICx-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="595" y="428" width="50" height="30" as="geometry" />
+        <mxCell id="TrC5T2JPyowlt0jybICx-45" value="自由空间采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="428" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
