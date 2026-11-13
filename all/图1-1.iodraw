@@ -198,7 +198,7 @@
             <mxPoint x="565" y="382.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TrC5T2JPyowlt0jybICx-75" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#CFD0D2;" vertex="1" parent="1">
+        <mxCell id="TrC5T2JPyowlt0jybICx-75" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#CFD0D2;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="120" y="530" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
