@@ -37,7 +37,7 @@
         <mxCell id="TrC5T2JPyowlt0jybICx-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1;fillColor=#E0EDE6;" vertex="1" parent="1">
           <mxGeometry x="200" y="335" width="120" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="TrC5T2JPyowlt0jybICx-12" value="&lt;font face=&quot;宋体&quot;&gt;环境建模&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9BB8D0;" vertex="1" parent="1">
+        <mxCell id="TrC5T2JPyowlt0jybICx-12" value="&lt;font face=&quot;宋体&quot;&gt;环境建模&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
           <mxGeometry x="220" y="350" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
