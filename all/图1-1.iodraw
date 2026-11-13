@@ -29,7 +29,7 @@
           <mxGeometry x="210" y="650" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#000033;strokeWidth=1;fontSize=14;fontStyle=1;fillColor=#E1E5EE;" vertex="1" parent="1">
-          <mxGeometry x="210" y="430" width="100" height="110" as="geometry" />
+          <mxGeometry x="210" y="430" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-13" value="&lt;font face=&quot;宋体&quot;&gt;优化准则&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFB6CB;" vertex="1" parent="1">
           <mxGeometry x="210" y="445" width="100" height="20" as="geometry" />
