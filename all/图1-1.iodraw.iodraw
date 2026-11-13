@@ -87,7 +87,7 @@
         <mxCell id="TrC5T2JPyowlt0jybICx-41" value="&lt;font face=&quot;宋体&quot;&gt;单元分解法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C7DAC7;" parent="1" vertex="1">
           <mxGeometry x="740" y="372.5" width="100" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="TrC5T2JPyowlt0jybICx-42" value="&lt;font face=&quot;宋体&quot;&gt;快速扩展随机树法&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(RRT)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" parent="1" vertex="1">
+        <mxCell id="TrC5T2JPyowlt0jybICx-42" value="&lt;font face=&quot;宋体&quot;&gt;快速扩展随机树法&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(RRT)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C9DCC9;" parent="1" vertex="1">
           <mxGeometry x="730" y="412.5" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="TrC5T2JPyowlt0jybICx-43" value="&lt;font face=&quot;宋体&quot;&gt;概率路线图法&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(PRM)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B4C59B;" parent="1" vertex="1">
