@@ -127,7 +127,10 @@
           <mxGeometry x="655" y="300" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4L-foqDEpH7QGIBDECJQ-44" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;nav_msgs/GetMap&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="320" width="130" height="30" as="geometry" />
+          <mxGeometry x="630" y="320" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4L-foqDEpH7QGIBDECJQ-45" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;map&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="310" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
