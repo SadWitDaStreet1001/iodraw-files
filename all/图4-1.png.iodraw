@@ -84,8 +84,8 @@
         <mxCell id="4L-foqDEpH7QGIBDECJQ-27" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;tf&lt;/i&gt;/tfMessage&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="420" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4L-foqDEpH7QGIBDECJQ-28" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;nav_msgs/Odoetry&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="500" width="130" height="30" as="geometry" />
+        <mxCell id="4L-foqDEpH7QGIBDECJQ-28" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;nav_msgs/Odometry&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4L-foqDEpH7QGIBDECJQ-31" value="&lt;i&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;cmd_vel&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px;&quot;&gt;geometry_msgs/Twist&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="555" width="150" height="50" as="geometry" />
