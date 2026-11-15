@@ -141,8 +141,13 @@
         <mxCell id="4L-foqDEpH7QGIBDECJQ-48" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="580" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4L-foqDEpH7QGIBDECJQ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4L-foqDEpH7QGIBDECJQ-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4L-foqDEpH7QGIBDECJQ-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="760" y="770" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
