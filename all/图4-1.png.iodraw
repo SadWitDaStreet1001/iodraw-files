@@ -84,8 +84,8 @@
         <mxCell id="4L-foqDEpH7QGIBDECJQ-28" value="nav_msgs/Odoetry" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4L-foqDEpH7QGIBDECJQ-31" value="cmd_vel&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="558" width="70" height="30" as="geometry" />
+        <mxCell id="4L-foqDEpH7QGIBDECJQ-31" value="cmd_vel&lt;div&gt;geometry_msgs/Twist&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="555" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
