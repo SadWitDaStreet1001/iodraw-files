@@ -64,8 +64,8 @@
         <mxCell id="4L-foqDEpH7QGIBDECJQ-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;sensor transformers&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="400" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4L-foqDEpH7QGIBDECJQ-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;sensor transformers&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="35" y="410" width="150" height="30" as="geometry" />
+        <mxCell id="4L-foqDEpH7QGIBDECJQ-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;odometry source&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="480" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
